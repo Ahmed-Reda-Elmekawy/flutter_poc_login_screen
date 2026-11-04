@@ -100,6 +100,11 @@ lib/
 
 ---
 
+## 📱 Testing on a Real Device
+For step-by-step instructions on how to test this POC on a physical Android device, check out [TESTING_ON_DEVICE.md](TESTING_ON_DEVICE.md).
+
+---
+
 ## 📦 Building APK
 To build a debug or release Android APK:
 ```bash
